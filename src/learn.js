@@ -1,4 +1,7 @@
 import * as d3 from 'd3';
+import data from './data.json';
+
+console.log(data);
 
 console.log('learn.js is loaded...');
 
